@@ -1,0 +1,26 @@
+body {
+font-family : "Lucida Grande", "Georgia", "Times New Roman";
+font-size : 18px;
+background : #d07b00;
+text-align : center;
+margin : 50px;
+}
+
+
+nav {
+  display: inline;
+  <font color='"Red"'>padding-right: 30px;</font>
+}
+
+}
+ul {
+  display: inline-block;
+  margin: 30px;
+}
+
+a:link, a:visited {
+color : #000;
+font-weight : bold;
+margin: 30px;
+
+}
